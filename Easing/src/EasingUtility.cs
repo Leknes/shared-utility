@@ -6,11 +6,18 @@ using System.Threading.Tasks;
 
 namespace Senkel.Utility.Easing
 {
-    public class EasingUtility
+    public static class EasingUtility
     {
-        public float EasePolymonial(float t, float power)
+        public static float EaseInOut(float t, EasingFunction easeInFunction, EasingFunction easeOutFunction)
         {
-            return MathF.Pow(t, power);
+            t *= 2;
+
+            if (t < 1f)
+                return easeInFunction.EaseIn(t) * 0.5f;
+
+            return easeOutFunction.EaseOut(t) * 0.5f + 0.5f;
         }
+         
     }
+ 
 }
