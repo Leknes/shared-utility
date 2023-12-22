@@ -2,6 +2,6 @@
     <PropertyGroup>
 				<RepositoryUrl>https://github.com/Leknes/shared-utility</RepositoryUrl>
     </PropertyGroup>
-</Project>
 
-<Import Project="$([MSBuild]::GetPathOfFileAbove('Directory.Build.props', '$(MSBuildThisFileDirectory)../'))" />
+	<Import Project="$([MSBuild]::GetPathOfFileAbove('Directory.Build.props', '$(MSBuildThisFileDirectory)../'))" />
+</Project>

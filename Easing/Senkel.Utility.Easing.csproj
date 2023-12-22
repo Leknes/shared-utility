@@ -1,16 +1,8 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net6.0</TargetFramework>
-    <ImplicitUsings>enable</ImplicitUsings>
-    <Nullable>enable</Nullable>
-    <OutputType>Library</OutputType>
     <PackageId>Senkel.Utility.Easing</PackageId>
-    <Authors>Leonhard Senkel</Authors>
-    <Company>Leonhard Senkel</Company>
-    <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <PackageDescription>A c# library containing various easing functions.</PackageDescription>
-    <RepositoryUrl>https://github.com/Leknes/shared-utility</RepositoryUrl>
+    <PackageDescription>A C# library containing various easing functions.</PackageDescription>
   </PropertyGroup>
 
 </Project>

@@ -1,0 +1,62 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.1/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.1": {},
+    ".NETStandard,Version=v2.1/": {
+      "Senkel.Utility.Easing/1.0.0": {
+        "dependencies": {
+          "Senkel.Compatibility.NullableAttribute": "1.0.0",
+          "Senkel.Compatibility.RequiredModifier": "1.0.0",
+          "Senkel.Compatibility.NullableAttributes": "1.0.0.0"
+        },
+        "runtime": {
+          "Senkel.Utility.Easing.dll": {}
+        }
+      },
+      "Senkel.Compatibility.NullableAttribute/1.0.0": {
+        "runtime": {
+          "Senkel.Compatibility.NullableAttributes.dll": {}
+        }
+      },
+      "Senkel.Compatibility.RequiredModifier/1.0.0": {
+        "runtime": {
+          "Senkel.Compatibility.RequiredModifier.dll": {}
+        }
+      },
+      "Senkel.Compatibility.NullableAttributes/1.0.0.0": {
+        "runtime": {
+          "Senkel.Compatibility.NullableAttributes.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Senkel.Utility.Easing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Senkel.Compatibility.NullableAttribute/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Senkel.Compatibility.RequiredModifier/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Senkel.Compatibility.NullableAttributes/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

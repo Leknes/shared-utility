@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <PackageId>Senkel.Utility.Random</PackageId>
+    <PackageDescription>A C# library containing utilities regarding pseudo-random algorithms. </PackageDescription>
+  </PropertyGroup>
+
+</Project>

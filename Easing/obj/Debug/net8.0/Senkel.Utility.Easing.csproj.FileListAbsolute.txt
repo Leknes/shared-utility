@@ -1,0 +1,14 @@
+D:\Programming\C#\Senkel\Utility\Easing\bin\Debug\net8.0\Senkel.Utility.Easing.deps.json
+D:\Programming\C#\Senkel\Utility\Easing\bin\Debug\net8.0\Senkel.Utility.Easing.dll
+D:\Programming\C#\Senkel\Utility\Easing\bin\Debug\net8.0\Senkel.Utility.Easing.pdb
+D:\Programming\C#\Senkel\Utility\Easing\bin\Debug\net8.0\Senkel.Utility.Easing.xml
+D:\Programming\C#\Senkel\Utility\Easing\obj\Debug\net8.0\Senkel.Utility.Easing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\Senkel\Utility\Easing\obj\Debug\net8.0\Senkel.Utility.Easing.AssemblyInfoInputs.cache
+D:\Programming\C#\Senkel\Utility\Easing\obj\Debug\net8.0\Senkel.Utility.Easing.AssemblyInfo.cs
+D:\Programming\C#\Senkel\Utility\Easing\obj\Debug\net8.0\Senkel.Utility.Easing.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Senkel\Utility\Easing\obj\Debug\net8.0\Senkel.Utility.Easing.sourcelink.json
+D:\Programming\C#\Senkel\Utility\Easing\obj\Debug\net8.0\Senkel.Utility.Easing.dll
+D:\Programming\C#\Senkel\Utility\Easing\obj\Debug\net8.0\refint\Senkel.Utility.Easing.dll
+D:\Programming\C#\Senkel\Utility\Easing\obj\Debug\net8.0\Senkel.Utility.Easing.xml
+D:\Programming\C#\Senkel\Utility\Easing\obj\Debug\net8.0\Senkel.Utility.Easing.pdb
+D:\Programming\C#\Senkel\Utility\Easing\obj\Debug\net8.0\ref\Senkel.Utility.Easing.dll
