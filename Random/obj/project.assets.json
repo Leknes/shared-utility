@@ -51,11 +51,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\C#\\Senkel\\Utility\\Random\\Senkel.Utility.Random.csproj",
+      "projectUniqueName": "C:\\Users\\Leonhard\\Documents\\Programming\\C#\\Senkel\\Utility\\Random\\Senkel.Utility.Random.csproj",
       "projectName": "Senkel.Utility.Random",
-      "projectPath": "D:\\Programming\\C#\\Senkel\\Utility\\Random\\Senkel.Utility.Random.csproj",
+      "projectPath": "C:\\Users\\Leonhard\\Documents\\Programming\\C#\\Senkel\\Utility\\Random\\Senkel.Utility.Random.csproj",
       "packagesPath": "C:\\Users\\Leonhard\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\C#\\Senkel\\Utility\\Random\\obj\\",
+      "outputPath": "C:\\Users\\Leonhard\\Documents\\Programming\\C#\\Senkel\\Utility\\Random\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
@@ -72,6 +72,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {},
         "https://nuget.pkg.github.com/Leknes/index.json": {}
       },
@@ -83,12 +84,12 @@
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
           "projectReferences": {
-            "D:\\Programming\\C#\\Senkel\\Compatibility\\NullableAttributes\\Senkel.Compatibility.NullableAttributes.csproj": {
-              "projectPath": "D:\\Programming\\C#\\Senkel\\Compatibility\\NullableAttributes\\Senkel.Compatibility.NullableAttributes.csproj",
+            "C:\\Users\\Leonhard\\Documents\\Programming\\C#\\Senkel\\Compatibility\\NullableAttributes\\Senkel.Compatibility.NullableAttributes.csproj": {
+              "projectPath": "C:\\Users\\Leonhard\\Documents\\Programming\\C#\\Senkel\\Compatibility\\NullableAttributes\\Senkel.Compatibility.NullableAttributes.csproj",
               "privateAssets": "all"
             },
-            "D:\\Programming\\C#\\Senkel\\Compatibility\\RequiredModifier\\Senkel.Compatibility.RequiredModifier.csproj": {
-              "projectPath": "D:\\Programming\\C#\\Senkel\\Compatibility\\RequiredModifier\\Senkel.Compatibility.RequiredModifier.csproj",
+            "C:\\Users\\Leonhard\\Documents\\Programming\\C#\\Senkel\\Compatibility\\RequiredModifier\\Senkel.Compatibility.RequiredModifier.csproj": {
+              "projectPath": "C:\\Users\\Leonhard\\Documents\\Programming\\C#\\Senkel\\Compatibility\\RequiredModifier\\Senkel.Compatibility.RequiredModifier.csproj",
               "privateAssets": "all"
             }
           }

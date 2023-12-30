@@ -12,3 +12,17 @@ D:\Programming\C#\Senkel\Utility\Random\obj\Debug\net8.0\refint\Senkel.Utility.R
 D:\Programming\C#\Senkel\Utility\Random\obj\Debug\net8.0\Senkel.Utility.Random.xml
 D:\Programming\C#\Senkel\Utility\Random\obj\Debug\net8.0\Senkel.Utility.Random.pdb
 D:\Programming\C#\Senkel\Utility\Random\obj\Debug\net8.0\ref\Senkel.Utility.Random.dll
+C:\Users\Leonhard\Documents\Programming\C#\Senkel\Utility\Random\bin\Debug\net8.0\Senkel.Utility.Random.deps.json
+C:\Users\Leonhard\Documents\Programming\C#\Senkel\Utility\Random\bin\Debug\net8.0\Senkel.Utility.Random.dll
+C:\Users\Leonhard\Documents\Programming\C#\Senkel\Utility\Random\bin\Debug\net8.0\Senkel.Utility.Random.pdb
+C:\Users\Leonhard\Documents\Programming\C#\Senkel\Utility\Random\bin\Debug\net8.0\Senkel.Utility.Random.xml
+C:\Users\Leonhard\Documents\Programming\C#\Senkel\Utility\Random\obj\Debug\net8.0\Senkel.Utility.Random.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonhard\Documents\Programming\C#\Senkel\Utility\Random\obj\Debug\net8.0\Senkel.Utility.Random.AssemblyInfoInputs.cache
+C:\Users\Leonhard\Documents\Programming\C#\Senkel\Utility\Random\obj\Debug\net8.0\Senkel.Utility.Random.AssemblyInfo.cs
+C:\Users\Leonhard\Documents\Programming\C#\Senkel\Utility\Random\obj\Debug\net8.0\Senkel.Utility.Random.csproj.CoreCompileInputs.cache
+C:\Users\Leonhard\Documents\Programming\C#\Senkel\Utility\Random\obj\Debug\net8.0\Senkel.Utility.Random.sourcelink.json
+C:\Users\Leonhard\Documents\Programming\C#\Senkel\Utility\Random\obj\Debug\net8.0\Senkel.Utility.Random.dll
+C:\Users\Leonhard\Documents\Programming\C#\Senkel\Utility\Random\obj\Debug\net8.0\refint\Senkel.Utility.Random.dll
+C:\Users\Leonhard\Documents\Programming\C#\Senkel\Utility\Random\obj\Debug\net8.0\Senkel.Utility.Random.xml
+C:\Users\Leonhard\Documents\Programming\C#\Senkel\Utility\Random\obj\Debug\net8.0\Senkel.Utility.Random.pdb
+C:\Users\Leonhard\Documents\Programming\C#\Senkel\Utility\Random\obj\Debug\net8.0\ref\Senkel.Utility.Random.dll
