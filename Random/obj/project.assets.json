@@ -1,47 +1,10 @@
 {
   "version": 3,
   "targets": {
-    ".NETStandard,Version=v2.1": {
-      "Senkel.Compatibility.NullableAttribute/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.1",
-        "compile": {
-          "bin/placeholder/Senkel.Compatibility.NullableAttribute.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Senkel.Compatibility.NullableAttribute.dll": {}
-        }
-      },
-      "Senkel.Compatibility.RequiredModifier/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.1",
-        "compile": {
-          "bin/placeholder/Senkel.Compatibility.RequiredModifier.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Senkel.Compatibility.RequiredModifier.dll": {}
-        }
-      }
-    },
     "net8.0": {}
   },
-  "libraries": {
-    "Senkel.Compatibility.NullableAttribute/1.0.0": {
-      "type": "project",
-      "path": "../../Compatibility/NullableAttributes/Senkel.Compatibility.NullableAttributes.csproj",
-      "msbuildProject": "../../Compatibility/NullableAttributes/Senkel.Compatibility.NullableAttributes.csproj"
-    },
-    "Senkel.Compatibility.RequiredModifier/1.0.0": {
-      "type": "project",
-      "path": "../../Compatibility/RequiredModifier/Senkel.Compatibility.RequiredModifier.csproj",
-      "msbuildProject": "../../Compatibility/RequiredModifier/Senkel.Compatibility.RequiredModifier.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    ".NETStandard,Version=v2.1": [
-      "Senkel.Compatibility.NullableAttribute >= 1.0.0",
-      "Senkel.Compatibility.RequiredModifier >= 1.0.0"
-    ],
     "net8.0": []
   },
   "packageFolders": {
@@ -67,8 +30,7 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net8.0",
-        "netstandard2.1"
+        "net8.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -80,19 +42,6 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {}
-        },
-        "netstandard2.1": {
-          "targetAlias": "netstandard2.1",
-          "projectReferences": {
-            "C:\\Users\\Leonhard\\Documents\\Programming\\C#\\Senkel\\Compatibility\\NullableAttributes\\Senkel.Compatibility.NullableAttributes.csproj": {
-              "projectPath": "C:\\Users\\Leonhard\\Documents\\Programming\\C#\\Senkel\\Compatibility\\NullableAttributes\\Senkel.Compatibility.NullableAttributes.csproj",
-              "privateAssets": "all"
-            },
-            "C:\\Users\\Leonhard\\Documents\\Programming\\C#\\Senkel\\Compatibility\\RequiredModifier\\Senkel.Compatibility.RequiredModifier.csproj": {
-              "projectPath": "C:\\Users\\Leonhard\\Documents\\Programming\\C#\\Senkel\\Compatibility\\RequiredModifier\\Senkel.Compatibility.RequiredModifier.csproj",
-              "privateAssets": "all"
-            }
-          }
         }
       },
       "warningProperties": {
@@ -121,26 +70,6 @@
           }
         },
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
-      },
-      "netstandard2.1": {
-        "targetAlias": "netstandard2.1",
-        "imports": [
-          "net461",
-          "net462",
-          "net47",
-          "net471",
-          "net472",
-          "net48",
-          "net481"
-        ],
-        "assetTargetFallback": true,
-        "warn": true,
-        "frameworkReferences": {
-          "NETStandard.Library": {
-            "privateAssets": "all"
-          }
-        },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
